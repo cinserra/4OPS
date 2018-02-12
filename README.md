@@ -5,6 +5,7 @@ Methodology reported in Inserra et al. 2018, ApJ, accepted (to be updated with f
 
 If you make use of this code, please cite the paper which is currently on the ArXiv:
 
+```
 @ARTICLE{2017arXiv171103787I,
    author = {{Inserra}, C. and {Prajs}, S. and {Gutierrez}, C.~P. and {Angus}, C. and 
 	{Smith}, M. and {Sullivan}, M.},
@@ -19,3 +20,4 @@ archivePrefix = "arXiv",
    adsurl = {http://adsabs.harvard.edu/abs/2017arXiv171103787I},
   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
+```
