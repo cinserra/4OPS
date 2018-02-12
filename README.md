@@ -3,7 +3,7 @@ Four observational parameter of space of supernovae. This is the case of superlu
 
 Methodology reported in Inserra et al. 2018, ApJ, accepted (to be updated with final DOI)
 
-If you make use of this code, please cite the paper which is currently on the ArXiv:
+If you make use of this code, please cite the paper which is currently on the ArXiv at [this link](https://arxiv.org/abs/1711.03787):
 
 ```
 @ARTICLE{2017arXiv171103787I,
